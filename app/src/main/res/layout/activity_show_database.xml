@@ -20,8 +20,8 @@
 
     <TextView
         android:id="@+id/showDatabase_textView"
-        android:layout_width="387dp"
-        android:layout_height="636dp"
+        android:layout_width="390dp"
+        android:layout_height="552dp"
         android:layout_marginStart="12dp"
         android:layout_marginLeft="12dp"
         android:layout_marginTop="80dp"
